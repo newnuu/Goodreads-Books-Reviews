@@ -1,2 +1,2 @@
-# Goodreads-Books-Reviews[https://www.kaggle.com/competitions/goodreads-books-reviews-290312]
-kaggle competition - Goodreads Books Reviews
+# Goodreads-Books-Reviews
+[kaggle competition - Goodreads Books Reviews](https://www.kaggle.com/competitions/goodreads-books-reviews-290312)
